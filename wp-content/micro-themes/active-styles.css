@@ -1,0 +1,49 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Cardapio Home **/
+.cardapiohome .uagb-rm__title-wrap {
+	width: 260px !important;
+}
+
+/** Conteúdo >> Cardapio Home Preco **/
+.cardapiohome .uagb-rm__price {
+	width: 80px !important;
+}
+
+/** Conteúdo >> Logo do Depoimento **/
+.uagb-block-8434a1b7 .uagb-ifb-img-src {
+	background-color: rgb(255, 255, 255) !important;
+	background-image: linear-gradient(rgba(122, 121, 121, 0), rgb(255, 255, 255), rgba(122, 121, 121, 0)) !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Barra do Rodapé **/
+#colophon > .ast-builder-grid-row-tablet-full {
+	height: 60px !important;
+	min-height: 50px !important;
+	max-height: 100px !important;
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+	margin-top: 0.5px !important;
+	margin-bottom: 1.5px !important;
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Cardapio Home **/
+	.cardapiohome .uagb-rm__title-wrap {
+	
+}
+
+
+}
+
